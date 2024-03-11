@@ -291,7 +291,7 @@ Tipe data merupakan memori atau media pada komputer yang digunakan untuk menampu
 
 ## Referensi
 
-[1] Meidyan Permata Putri, et al., Algoritma dan Struktur Data. Bandung: Widina Bhakti Persada Bandung, 2022.
-[2] Zein Afrizal & Eriana Emi Sita, Algoritma dan Struktur Data. Tangerang Selatan: Unpam Press, 2022.
+#### [1] Meidyan Permata Putri, et al., Algoritma dan Struktur Data. Bandung: Widina Bhakti Persada Bandung, 2022.
+#### [2] Zein Afrizal & Eriana Emi Sita, Algoritma dan Struktur Data. Tangerang Selatan: Unpam Press, 2022.
 
 

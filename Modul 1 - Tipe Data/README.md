@@ -64,7 +64,7 @@ int main()
     return 0;
 }
 ```
-Output :
+#### Output :
 Penjelasan Program : Program di atas adalah sebuah kalkulator sederhana yang meminta pengguna memasukkan operator (+, -, *, /) diikuti oleh dua bilangan. Selanjutnya, program menggunakan sebuah switch statement untuk melakukan operasi aritmatika sesuai dengan operator yang dimasukkan. Hasil operasi kemudian dicetak, dan jika operator yang dimasukkan tidak valid, program akan memberikan pesan kesalahan. Setelah mencetak hasilnya, program berakhir.
 
 ### 2. Tipe Data Abstrak

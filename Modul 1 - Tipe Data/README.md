@@ -180,7 +180,7 @@ int main()
 #### Output :
 ![un1](https://github.com/seaaralee/data-structure-assignment/assets/87632337/8f9838b7-dc8a-40d5-9ed1-a7cc31c81749)
 
-Penjelasan Program : Program di atas adalah sebuah contoh penggunaan tipe data primitif dalam C++. Di dalam fungsi main(), pengguna diminta untuk memasukkan panjang sisi persegi melalui input, dan kemudian hasil keliling dan luasnya dicetak. Program ini menggunakan tipe data primitif, karena bilangan bulat termasuk dalam tipe data yang sudah ditentukan oleh sistem atau bahasa pemrograman itu sendiri. 
+Penjelasan Program : Program di atas adalah sebuah contoh penggunaan tipe data primitif. Di dalam fungsi main(), pengguna diminta untuk memasukkan panjang sisi persegi melalui input, dan kemudian hasil keliling dan luasnya dicetak. Program ini menggunakan tipe data primitif, karena bilangan bulat termasuk dalam tipe data yang sudah ditentukan oleh sistem atau bahasa pemrograman itu sendiri. 
 
 ### 2. Jelaskan fungsi dari class dan struct secara detail dan berikan contoh programnya
 
@@ -239,7 +239,7 @@ int main() {
 #### Output :
 ![un2](https://github.com/seaaralee/data-structure-assignment/assets/87632337/3602fda7-5a27-48f7-8218-97085a262ee1)
 
-Penjelasan Program : Program di atas merupakan contoh sederhana penggunaan class dan struct dalam bahasa pemrograman C++. Program meminta pengguna untuk memasukkan nama dan usia mahasiswa, kemudian membuat objek mahasiswa menggunakan data yang dimasukkan. Informasi mahasiswa tersebut kemudian ditampilkan ke layar. Program ini memberikan gambaran tentang bagaimana class dan struct digunakan untuk mengatur dan merepresentasikan data dalam program C++.
+Penjelasan Program : Program di atas merupakan contoh sederhana penggunaan class dan struct. Program meminta pengguna untuk memasukkan nama dan usia mahasiswa, kemudian membuat objek mahasiswa menggunakan data yang dimasukkan. Informasi mahasiswa tersebut kemudian ditampilkan ke layar. Program ini memberikan gambaran tentang bagaimana class dan struct digunakan untuk mengatur dan merepresentasikan data dalam program.
 
 Struct digunakan untuk mengelompokkan beberapa tipe data yang berbeda menjadi satu yang berguna untuk merepresentasikan objek atau konsep dalam program dan memudahkan dalam mengorganisasi data, sementara class memberikan lebih banyak fitur seperti encapsulation, inheritance, dan polymorphism. Dengan class, kita dapat menggabungkan data dan fungsi yang beroperasi pada data tersebut ke dalam satu kesatuan yang disebut objek.
 
@@ -281,7 +281,7 @@ int main() {
 #### Output :
 ![un3](https://github.com/seaaralee/data-structure-assignment/assets/87632337/259b74c9-0392-4222-ab68-2b043c2744e3)
 
-Penjelasan Program : Program di atas adalah contoh penggunaan map dalam C++. Dalam program ini, map digunakan untuk memetakan nama dan usia siswa. Pengguna diminta untuk memasukkan nama siswa yang ingin dicari, dan program mencari nama tersebut dalam data map. Jika nama tersebut ditemukan, program mencetak nama dan usia siswa yang sesuai. Jika tidak ditemukan, program mencetak pesan bahwa nama siswa tidak ditemukan.
+Penjelasan Program : Program di atas adalah contoh penggunaan map. Dalam program ini, map digunakan untuk memetakan nama dan usia siswa. Pengguna diminta untuk memasukkan nama siswa yang ingin dicari, dan program mencari nama tersebut dalam data map. Jika nama tersebut ditemukan, program mencetak nama dan usia siswa yang sesuai. Jika tidak ditemukan, program mencetak pesan bahwa nama siswa tidak ditemukan.
 
 Perbedaan array dan map terdapat pada penggunaan indeks, ukuran memori, ukuran dinamis dan kompleksitas. Setiap elemen dalam array diakses menggunakan indeks numerik, array memiliki ukuran yang tetap dan menghabiskan jumlah memori karena jumlah elemen yang sudah ditentukan di awal. Sedangkan map menyimpan dan mengakses data menggunakan kunci (key), map dapat berupa tipe data yang berbeda, map memiliki ukuran yang dinamis, sehingga hanya menggunakan memori sesuai dengan jumlah elemen yang sebenarnya disimpan di dalamnya. Selain itu, operasi pencarian dalam map cenderung lebih cepat daripada dalam array, terutama untuk jumlah data yang besar
 

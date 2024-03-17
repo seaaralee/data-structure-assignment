@@ -409,7 +409,7 @@ Array merupakan struktur penyimpanan data yang terdiri dari elemen-elemen dengan
 
 ## Referensi
 
-[1] Pratama, Muhammad A. 2020. “STRUKTUR DATA ARRAY DUA DIMENSI PADA PEMROGRAMAN C++.” OSF Preprints. March 29. doi:10.31219/osf.io/vyech.
+#### [1] Pratama, Muhammad A. 2020. “STRUKTUR DATA ARRAY DUA DIMENSI PADA PEMROGRAMAN C++.” OSF Preprints. March 29. doi:10.31219/osf.io/vyech.
 
-[2] Anita Sindar. 2018. "STRUKTUR DATA DAN ALGORITMA DENGAN C++". Serang, Banten : CV. AA. RIZKY.
+#### [2] Anita Sindar. 2018. "STRUKTUR DATA DAN ALGORITMA DENGAN C++". Serang, Banten : CV. AA. RIZKY.
 

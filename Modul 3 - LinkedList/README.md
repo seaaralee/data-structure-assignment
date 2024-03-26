@@ -951,29 +951,6 @@ int main()
 Penjelasan Program : Program C++ ini merupakan implementasi dari single linked list untuk mengelola daftar mahasiswa berdasarkan nama dan umur. Program menyajikan antarmuka menu yang memungkinkan pengguna untuk menambahkan, memperbarui, dan menghapus data mahasiswa, serta menampilkan seluruh daftar dan menghapus seluruh entri dalam daftar.
 
 #### Case 1 : Masukkan data sesuai urutan berikut. (Gunakan insert depan, belakang atau tengah). Data pertama yang dimasukkan adalah nama dan usia anda.
-
-- Tambah Data 1
-![a1](https://github.com/seaaralee/data-structure-assignment/assets/87632337/1bcef792-a25a-4a3d-98dc-8aae76dbd4cd)
-  
-- Tambah Data 2
-![a2](https://github.com/seaaralee/data-structure-assignment/assets/87632337/6111d0ea-b2d9-46d1-907c-8fea38df8e8f)
-
-- Tambah Data 3
-![a3](https://github.com/seaaralee/data-structure-assignment/assets/87632337/b7e5a140-0672-47ab-8a88-20697d324881)
-
-- Tambah Data 4
-![a4](https://github.com/seaaralee/data-structure-assignment/assets/87632337/f3472def-6a62-441b-9e32-aed0577baad4)
-
-- Tambah Data 5
-![a5](https://github.com/seaaralee/data-structure-assignment/assets/87632337/d93b6c04-840c-4fa2-9f93-da46c985d0b1)
-
-- Tambah Data 6
-![a6](https://github.com/seaaralee/data-structure-assignment/assets/87632337/fde8408c-02a1-4b86-a909-df3ce36295a4)
-
-- Tambah Data 7
-![a7](https://github.com/seaaralee/data-structure-assignment/assets/87632337/f9bde502-4084-4104-849b-5baf2bc67161)
-
-- Tambah Data Nama dan Usia Anda
 ![a](https://github.com/seaaralee/data-structure-assignment/assets/87632337/63b0c296-e5c4-409d-9252-7fe5f21c0bf7)
 
 #### Case 2 : Hapus data Akechi

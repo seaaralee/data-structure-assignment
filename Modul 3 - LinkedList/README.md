@@ -4,11 +4,11 @@
 ## Dasar Teori
 
 Linked List (Senarai Berantai) adalah jenis struktur data yang berisi kumpulan data yang disusun secara linear dengan setiap data disimpan dalam sebuah simpul dan antara satu simpul dengan simpul lain dihubungkan melalui pointer.[1] Linked List memiliki properti berikut:
-##### • Elemen yang berurutan dihubungkan oleh pointer
-##### • Elemen terakhir menunjuk ke NULL
-##### • Dapat tumbuh atau menyusut dalam ukuran selama eksekusi program
-##### • Dapat dibuat selama diperlukan (sampai memori sistem habis)
-##### • Tidak membuang-buang ruang memori (tetapi membutuhkan memori ekstra untuk pointer). Ini mengalokasikan memori saat daftar bertambah. [2]
+- Elemen yang berurutan dihubungkan oleh pointer
+- Elemen terakhir menunjuk ke NULL
+- Dapat tumbuh atau menyusut dalam ukuran selama eksekusi program
+- Dapat dibuat selama diperlukan (sampai memori sistem habis)
+- Tidak membuang-buang ruang memori (tetapi membutuhkan memori ekstra untuk pointer). Ini mengalokasikan memori saat daftar bertambah. [2]
 
 #### Single Linked List
 Single linked list atau biasa disebut linked list terdiri dari elemen-elemen individu, dimana masing masing dihubungkan dengan pointer tunggal. Masing-masing elemen terdiri dari dua bagian, yaitu sebuah data dan sebuah pointer yang disebut dengan pointer next. Elemen pada awal suatu list disebut head, dan elemen terakhir dari suatu list disebut tail. Dengan single linke list, list dapat dilintasi hanya satu arah dari head ke tail karena masing-masing elemen tidak terdapat link dengan elemen sebelumnya.[1]

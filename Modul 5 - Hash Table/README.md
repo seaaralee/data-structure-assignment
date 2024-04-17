@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul Linked List Circular dan Non Circular</h1>
+# <h1 align="center">Laporan Praktikum Modul Hash Table</h1>
 <p align="center">Mutia Rani Zahra Meilani | 2311102182</p>
 
 ## Dasar Teori

@@ -3,6 +3,8 @@
 
 ## Dasar Teori
 
+![image](https://github.com/seaaralee/data-structure-assignment/assets/87632337/c04f3dda-4c82-481b-8b72-eadc3bd3a430)
+
 Stack adalah struktur data sederhana yang digunakan untuk menyimpan data (mirip dengan LinkedList). Dalam tumpukan, urutan kedatangan data adalah penting. [3] Stack adalah kumpulan elemen yang hanya dapat ditambah dan atau dihapus dari satu ujung (gerbang) yang sama, seolah-olah bertumpuk. Stack mempunyai sifat LIFO (Last In First Out) yang berarti elemen terakhir masuk akan pertama keluar yang direpresentasikan menggunakan Linked List dan array yang disajikan Single Stack atau Double Stack (Suyanto, 2021). [1]
 
 ### Operasi Pada Stack [2]

@@ -16,6 +16,17 @@ Stack adalah struktur data sederhana yang digunakan untuk menyimpan data (mirip 
 
 • IsFull : fungsi yang digunakan untuk mengecek apakah stack sudah penuh
 
+### Karakteristik Pada Stack [1]
+Karakteristik dari suatu Stack adalah (S, 2021):
+• Elemen Stack yaitu item-item data yang terdapat dalam Stack.
+   
+• Top menunjukkan posisi puncak pada Stack.
+   
+• Max menunjukkan banyaknya maksimum item dari Stack.
+   
+• Stack Kosong tidak mungkin dilakukan POP
+
+• Stack Penuh tidak mungkin dilakukan PUSH
 
 ## Guided
 

@@ -6,15 +6,11 @@
 Stack adalah struktur data sederhana yang digunakan untuk menyimpan data (mirip dengan LinkedList). Dalam tumpukan, urutan kedatangan data adalah penting. [3] Stack adalah kumpulan elemen yang hanya dapat ditambah dan atau dihapus dari satu ujung (gerbang) yang sama, seolah-olah bertumpuk. Stack mempunyai sifat LIFO (Last In First Out) yang berarti elemen terakhir masuk akan pertama keluar yang direpresentasikan menggunakan Linked List dan array yang disajikan Single Stack atau Double Stack (Suyanto, 2021). [1]
 
 ### Operasi Pada Stack [2]
-• Push : digunakan untuk menambah item pada stack pada
-tumpukan paling atas
-• Pop : digunakan untuk mengambil item pada stack pada
-tumpukan paling atas
+• Push : digunakan untuk menambah item pada stack pada tumpukan paling atas
+• Pop : digunakan untuk mengambil item pada stack pada tumpukan paling atas
 • Clear : digunakan untuk mengosongkan stack
-• IsEmpty : fungsi yang digunakan untuk mengecek
-apakah stack sudah kosong
-• IsFull : fungsi yang digunakan untuk mengecek apakah
-stack sudah penuh
+• IsEmpty : fungsi yang digunakan untuk mengecek apakah stack sudah kosong
+• IsFull : fungsi yang digunakan untuk mengecek apakah stack sudah penuh
 
 
 ## Guided

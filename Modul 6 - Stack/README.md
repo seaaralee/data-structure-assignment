@@ -7,9 +7,13 @@ Stack adalah struktur data sederhana yang digunakan untuk menyimpan data (mirip 
 
 ### Operasi Pada Stack [2]
 • Push : digunakan untuk menambah item pada stack pada tumpukan paling atas
+
 • Pop : digunakan untuk mengambil item pada stack pada tumpukan paling atas
+
 • Clear : digunakan untuk mengosongkan stack
+
 • IsEmpty : fungsi yang digunakan untuk mengecek apakah stack sudah kosong
+
 • IsFull : fungsi yang digunakan untuk mengecek apakah stack sudah penuh
 
 

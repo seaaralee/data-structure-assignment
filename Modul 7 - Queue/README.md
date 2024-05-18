@@ -159,7 +159,7 @@ Pada main program ditambahkan dua nama ("Andi" dan "Maya") ke dalam antrian, men
 
 ## Unguided
 
-### 1. 
+### 1. Ubahlah penerapan konsep queue pada bagian guided dari array menjadi linked list
 
 ```C++
 /*
@@ -315,7 +315,7 @@ Program ini adalah aplikasi sederhana untuk mengelola antrian (queue) menggunaka
 
 Pada program utama, beberapa data ditambahkan ke dalam antrian, kemudian program menampilkan isi antrian dan jumlah datanya. Salah satu data kemudian dihapus dari antrian, dan program menampilkan kembali isi antrian dan jumlah datanya setelah penghapusan. Terakhir, program mengosongkan seluruh data dari antrian dan menampilkan kembali jumlah data dalam antrian yang telah kosong.
 
-### 2.
+### 2. Dari nomor 1 buatlah konsep antri dengan atribut Nama mahasiswa dan NIM Mahasiswa
 
 ```C++
 /*
